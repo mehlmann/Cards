@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_vocables"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.batman.cards.PickVocablesActivity">
+
+    <TextView
+        android:text="Wähle Kapitel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vocables_heading"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:text="Kapitel 2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap1"
+        android:layout_alignStart="@+id/chap1"
+        android:id="@+id/chap2" />
+
+    <CheckBox
+        android:text="Kapitel 3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap2"
+        android:layout_alignStart="@+id/chap2"
+        android:id="@+id/chap3" />
+
+    <CheckBox
+        android:text="Kapitel 4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap3"
+        android:layout_alignStart="@+id/chap3"
+        android:id="@+id/chap4" />
+
+    <CheckBox
+        android:text="Kapitel 5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap4"
+        android:layout_alignStart="@+id/chap4"
+        android:id="@+id/chap5" />
+
+    <CheckBox
+        android:text="Kapitel 6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap6"
+        android:layout_below="@+id/chap5"
+        android:layout_alignStart="@+id/chap5" />
+
+    <CheckBox
+        android:text="Kapitel 7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap6"
+        android:layout_alignStart="@+id/chap6"
+        android:id="@+id/chap7" />
+
+    <CheckBox
+        android:text="Kapitel 8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap7"
+        android:layout_alignStart="@+id/chap7"
+        android:id="@+id/chap8" />
+
+    <CheckBox
+        android:text="Kapitel 10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap10"
+        android:layout_below="@+id/chap9"
+        android:layout_alignStart="@+id/chap9" />
+
+    <CheckBox
+        android:text="Kapitel 11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap10"
+        android:layout_alignStart="@+id/chap10"
+        android:id="@+id/chap11" />
+
+    <CheckBox
+        android:text="Kapitel 12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap11"
+        android:layout_alignStart="@+id/chap11"
+        android:id="@+id/chap12" />
+
+    <CheckBox
+        android:text="Kapitel 1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:id="@+id/chap1"
+        android:layout_below="@+id/vocables_heading"
+        android:layout_alignParentStart="true" />
+
+    <CheckBox
+        android:text="Kapitel 9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap9"
+        android:layout_alignBaseline="@+id/chap1"
+        android:layout_alignBottom="@+id/chap1"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:text="Kapitel 13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap12"
+        android:layout_alignStart="@+id/chap12"
+        android:id="@+id/chap13" />
+
+    <CheckBox
+        android:text="Kapitel 14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/chap7"
+        android:layout_alignStart="@+id/chap13"
+        android:id="@+id/chap14" />
+
+    <CheckBox
+        android:text="Kapitel 15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap15"
+        android:layout_below="@+id/chap14"
+        android:layout_alignStart="@+id/chap14" />
+
+    <CheckBox
+        android:text="Kapitel 16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/chap8"
+        android:layout_alignStart="@+id/chap15"
+        android:id="@+id/chap16" />
+
+    <CheckBox
+        android:text="Kapitel 19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap18"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/chap19" />
+
+    <CheckBox
+        android:text="Kapitel 20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap19"
+        android:layout_alignStart="@+id/chap19"
+        android:id="@+id/chap20" />
+
+    <CheckBox
+        android:text="Kapitel 21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap20"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/chap21" />
+
+    <CheckBox
+        android:text="Kapitel 23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap22"
+        android:layout_alignStart="@+id/chap22"
+        android:id="@+id/chap23" />
+
+    <CheckBox
+        android:text="Kapitel 24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap23"
+        android:layout_alignStart="@+id/chap23"
+        android:id="@+id/chap24" />
+
+    <CheckBox
+        android:text="Kapitel 17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap17"
+        android:layout_below="@+id/chap16"
+        android:layout_alignStart="@+id/chap16" />
+
+    <CheckBox
+        android:text="Kapitel 18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap18"
+        android:layout_above="@+id/chap10"
+        android:layout_alignParentEnd="true" />
+
+    <CheckBox
+        android:text="Kapitel 22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chap22"
+        android:layout_below="@+id/chap21"
+        android:layout_alignParentEnd="true" />
+
+    <CheckBox
+        android:text="Kapitel 25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap24"
+        android:layout_alignStart="@+id/chap24"
+        android:id="@+id/chap25" />
+
+    <Button
+        android:text="LOS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chap17"
+        android:layout_alignStart="@+id/chap17"
+        android:layout_marginTop="29dp"
+        android:id="@+id/los" />
+
+
+</RelativeLayout>

@@ -1,0 +1,973 @@
+﻿Chapter;1
+わたし;わたし;Ich
+あなた;あなた;Sie
+あの人;あのひと;Er, Sie, Es
+あの方;あのかた;Er, Sie, Es(höfl.)
+～さん;～さん;Herr, Frau
+～ちゃん;～ちゃん;Kind-Endung
+～人;～じん;Mensch von～
+先生;せんせい;Lehrer
+教師;きょうし;Lehrer (Arbeit)
+学生;がくせい;Student
+会社員;かいしゃいん;Angestellter
+社員;しゃいん;Angestellter einer Firma
+銀行員;ぎんこういん;Bankangestellter
+医者;いしゃ;Arzt
+研究者;けんきゅうしゃ;Forscher
+大学;だいがく;Universität
+病院;びょういん;Krankenhaus
+だれ;だれ;Wer
+どなた;どなた;Wer(höfl.)
+～歳;～さい;~Jahre alt
+何歳;なんさい;Wie alt
+おいくつ;おいくつ;Wie alt(höfl.)
+はい;はい;Ja
+いいえ;いいえ;Nein
+失礼ですが;しつれいですが;Entschuldigen Sie bitte, aber..
+お名前は;おなまえは;Wie ist ihr Name, bitte?
+初めまして;はじめまして;Ich sehe Sie zum ersten Mal.
+どうぞよろしく（お願いします）;どうぞよろしく（おねがいします）;Seien Sie bitte freundlich zu mir.
+こちらは～さんです;こちらは～さんです;Das ist Herr/Frau.
+～から来ました;～からきました;Ich komme aus～
+アメキカ;アメリカ;Amerika
+イギリス;イギリス;England
+インド;インド;Indien
+インドネシア;インドネシア;Indonesien
+韓国;かんこく;Süd Korea
+タイ;タイ;Thailand
+中国;ちゅうごく;China
+ドイツ;ドイツ;Deutschland
+日本;にほん;Japan
+フランス;フランス;Frankreich
+ブラジル;ブラジル;Brasilien
+
+Chapter;2
+これ;これ;diese/-r/-s(hier)
+それ;それ;diese/-r/-s(dort)
+あれ;あれ;jene/-r/-s(da)
+この～;この～;diese/-r/-s(hier)
+その～;その～;diese/-r/-s(dort)
+あの～;あの～;jene/-r/-s(da)
+本;ほん;Buch
+辞書;じしょ;Wörterbuch
+雑誌;ざっし;Zeitschrift
+新聞;しんぶん;Zeitung
+ノート;ノート;Heft
+手帳;てちょう;Notizbuch
+名刺;めいし;Visitenkarte
+カード;カード;Karte
+鉛筆;えんぴつ;Bleistift
+ボールペン;ボールペン;Kugelschreiber
+シャップペンシル;シャップペンシル;Drehbleistift
+かぎ;かぎ;Schlüssel
+時計;とけい;Uhr
+傘;かさ;Regenschirm
+かばん;かばん;Tasche
+テレビ;テレビ;Fernseher
+ラジオ;ラジオ;Radio
+カメラ;カメラ;Kamera
+コンピューター;コンピューター;Computer
+自動車;じどうしゃ;Auto, Wagen
+机;つくえ;Schreibtisch
+いす;いす;Stuhl
+チョコレート;チョコレート;Schokolade
+コーヒー;コーヒー;Kaffe
+英語;えいご;Englisch
+日本語;にほんご;Japanisch
+～語;～ご;~Sprache
+何;なん;was
+そう;そう;so
+あのう;あのう;Äh...
+どうぞ;どうぞ;Bitte schön!
+どうもありがとうございます;どうもありがとございます;Vielen Dank!
+そうですか;そうですか;Ach so. Ich verstehe.
+違います;ちがいます;Nein, ist es nicht.
+これからお世話になります;これからおせわになります;Vielen Dank im Voraus für Ihre Hilfe!
+こちらこそよろしく;こちらこそよろしく;Ganz meinerseits.
+
+Chapter;3
+ここ;ここ;hier
+そこ;そこ;bei dir(da)
+あそこ;あそこ;dort drüben
+どこ;どこ;wo
+こちら;こちら;hierhin, hier(höfl.)
+そちら;そちら;dahin, da(höfl.)
+あちら;あちら;dorthin, dort(höfl.)
+どちら;どちら;wohin, wo(höfl.)
+教室;きょうしつ;Unterrichtsraum
+食堂;しょくどう;Speisesaal, Kantine
+事務所;じむしょ;Büro
+会議室;かいぎしつ;Konferenzraum
+受付;うけつけ;Rezeption
+ロビー;ロビー;Lobby
+部屋;へや;Zimmer, Raum
+トイレ;トイレ;Toilette, WC
+お手洗い;おてあらい;Toilette, WC
+階段;かいだん;Treppe
+エレベーター;エレベーター;Aufzug
+エスカレーター;エスカレーター;Rolltreppe
+[お]国;[お]くに;Ihr Land
+会社;かいしゃ;Firma
+うち;うち;Haus
+靴;くつ;Schuhe
+ネクタイ;ネクタイ;Krawatte
+ワイン;ワイン;Wein
+売り場;うりば;Verkaufsabteilung
+地下;ちか;Untergeschoss
+～階;～かい; ~te Etage
+何階;なんがい;welche Etage
+～円;～えん;~Yen
+いくら;いくら;wie viel
+百;ひゃく;Hundert
+千;せん;Tausend
+万;まん;Zehntausend
+すみません;すみません;Entschuldigen Sie bitte!
+～を見せてください;～をみせてください;Zeigen Sie mir bitte~!
+じゃ;じゃ;Nun, hm, dann
+～をください;～をください;Geben Sie mir bitte ~
+
+Chapter;4
+起きます;おきます;aufstehen
+寝ます;ねます;schlafen, ins Bett gehen
+働きます;はたらきます;arbeiten
+休みます;やすみます;Pause machen, Urlaub nehmen
+勉強します;べんきょうします;lernen, studieren
+終わります;おわります;enden
+デパート;デパート;Kaufhaus
+銀行;ぎんこう;Bank
+郵便局;ゆうびんきょく;Postamt
+図書館;としょかん;Bibliothek
+美術館;びじゅつかん;Kunstmuseum
+今;いま;jetzt
+～時;～じ; ~Uhr
+～分;～ふん;~Minute/-n
+半;はん;Hälfte, halb
+何時;なんじ;wie spät, wie viel Uhr
+何分;なんぷん;welche Minute
+午前;ごぜん;Vormittags
+午後;ごご;Nachmittags
+朝;あさ;Morgen, morgens
+昼;ひる;Mittag, mittags
+晩; ばん;Nacht, nachts
+夜;よる;Nacht, nachts
+おととい;おととい;vorgestern
+きのう;きのう;gestern
+きょう;きょう;heute
+あした;あした;morgen
+あさって;あさって;übermorgen
+けさ;けさ;heute Morgen
+今晩;こんばん;heute Abend
+休み;やすみ;Pause, freier Tag, Ferien
+昼休み;ひるやすみ;Mittagspause
+試験;しけん;Prüfung
+会議;かいぎ;Konferenz
+映画;えいが;Film
+毎朝;まいあさ;jeden Morgen
+毎晩;まいばん;jeden Abend
+毎日;まいにち;jeden Tag
+月曜日;げつようび;Montag
+火曜日;かようび;Dienstag
+水曜日;すいようび;Mittwoch
+木曜日;もくようび;Donnerstag
+金曜日;きんようび;Freitag
+土曜日;どようび;Samstag
+日曜日;にちようび;Sonntag
+何曜日;なんようび;welcher Wochentag
+番号;ばんごう;Nummer
+何番;なんばん;welche Nummer
+～から;～から;von~
+～まで;～まで;bis~
+～と～;～と～;und/
+そちら;そちら;bei Ihnen
+大変ですね;たいへんですね;Das ist ganz schön anstrengend, nicht wahr?
+ニューヨーク;ニューヨーク;New York
+ペキン;ペキン;Beijing
+ロンドン;ロンドン;London
+バンコク;バンコク;Bangkok
+ロサンゼルス;ロサンゼルス;Los Angeles
+
+Chapter;5
+行ます;いきます;gehen, fahren, fliegen
+来ます;きます;kommen
+帰ります;かえります;nach Hause gehen, zurückkehren
+学校;がっこう;Schule
+スーパー;スーパー;Supermarkt
+駅;えき;Bahnhof
+飛行機;ひこうき;Flugzeug
+船;ふね;Schiff
+電車;でんしゃ;Bahn, Zug
+地下鉄;ちかてつ;U-Bahn
+新幹線;しんかんせん;Shinkansen
+バス;バス;Bus
+タクシー;タクシー;Taxi
+自転車;じてんしゃ;Fahrrad
+歩いて;あるいて;zu Fuß
+人;ひと;Person, Mensch, Leute
+友達;ともだち;Freund
+彼;かれ;er, (fester) Freund
+彼女;かのじょ;sie, (feste) Freundin
+家族;かぞく;Familie
+一人で;ひとりで;alleine
+先週;せんしゅう;letzte Woche
+今週;こんしゅう;diese Woche
+来週;らいしゅう;nächste Woche
+先月;せんげつ;der letze Monat
+今月;こんげつ;diesen/r Monat
+来月;らいげつ;der nächste Monat
+去年;きょねん;letzte Jahr
+ことし;ことし;dieses Jahr
+来年;らいねん;nächstes Jahr
+～月;～がつ;~ Monat
+何月;なんがつ;welcher Monat
+一日;ついたち;der 1. des Monats
+二日;ふつか;der 2. des Monats
+三日;みっか;der 3. des Monats
+四日;よっか;der 4. des Monats
+五日;いつか;der 5. des Monats
+六日;むいか;der 6. des Monats
+七日;なのか;der 7. des Monats
+八日;ようか;der 8. des Monats
+九日;ここのか;der 9. des Monats
+十日;とおか;der 10. des Monats
+十四日;じゅうよっか;der 14. des Monats
+二十日;はつか;der 20. des Monats
+二十四日;にじゅうよっか;der 24. des Monats
+～日;～にち;der ~te des Monats
+何日;なんにち;welcher Tag, wie viele Tage
+いつ;いつ;wann
+誕生日;たんじょうび;Geburtstag
+普通;ふつう;S-Bahn
+急行;きゅうこう;Schnellzug
+特急;とっきゅう;Expresszug
+次の;つぎの;Nächste/-r/-s
+どういたしまして;どういたしまして;Keine Ursache. Gern geschehen.
+～番線;～ばんせん;Bahnsteig~, Gleis~
+
+Chapter;6
+食べます;たべます;essen
+飲みます;のみます;trinken
+吸います;すいます;rauchen
+たばこを吸います;たばこをすいます;Zigarette rauchen
+見ます;みます;sehen
+聞きます;ききます;hören
+読みます;よみます;lesen
+書きます;かきます;schreiben
+買います;かいます;kaufen
+撮ります;とります;machen (Foto)
+写真を撮ります;しゃしんをとります;fotografieren
+します;します;tun, machen
+会います;あいます;treffen
+友達を会います;ともだちをあいます;sich [mit Freunden] treffen
+ごはん;ごはん;Essen, gekochter Reis
+朝ごはん;あさごはん;Frühstück
+昼ごはん;ひるごはん;Mittagessen
+晩ごはん;ばんごはん;Abendessen
+パン;パン;Brot
+卵;たまご;Ei
+肉;にく;Fleisch
+魚;さかな;Fisch
+野菜;やさい;Gemüse
+果物;くだもの;Obst
+水;みず;Wasser
+お茶;おちゃ;Tee, grüner Tee
+紅茶;こうちゃ;schwarzer Tee
+牛乳;ぎゅうにゅう;Milch
+ミリク;ミリク;Milch
+ジュース;ジュース;Saft
+ビール;ビール;Bier
+酒;さけ;Alkohol, Reiswein
+ビデオ;ビデオ;Video
+映画;えいが;Film
+手紙;てがみ;Brief
+レポート;レポート;Bericht, Hausarbeit
+写真;しゃしん;Foto
+店;みせ;Geschäft, Laden
+レストラン;レストラン;Restaurant
+庭;にわ;Garten
+宿題;しゅくだい;Hausaufgabe
+宿題をします;しゅくだいをします;Hausaufgaben machen
+テニス;テニス;Tennis
+サッカー;サッカー;Fußball
+サッカーをします;サッカーをします;Fußball spielen
+花見;はなみ;Kirschblütenschau
+花見をします;はなみをします;Kirschblüten anschauen
+何;なに;was
+いっしょに;いっしょに;zusammen
+ちょっと;ちょっと;ein bisschen, wenig
+いつも;いつも;immer
+時々;ときどき;manchmal
+それから;それから;danach, dann
+ええ;ええ;ja
+いいですね;いいですね;Das hört sich gut an.
+わかりました;わかりました;Ich habe verstanden.
+何ですか;なんですか;ja?
+じゃ、またあした;じゃ、またあした;Man sieht sich! Bis morgen!
+
+Chapter;7
+切ります;きります;schneiden
+送ります;おくります;(ab-)schicken
+あげます;あげます;geben, schenken
+もらいます;もらいます;erhalten, bekommen
+貨します;かします;verleihen
+借ります;かります;borgen, sich ausleihen
+教えます;おしえます;lehren, beibringen
+習います;ならいます;lernen
+でんわをかけます;でんわをかけます;anrufen
+手;て;Hand, Arm
+はし;はし;Essstäbchen
+スプーン;スプーン;Löffel
+ナイフ;ナイフ;Messer
+フォーク;フォーク;Gabel
+はさみ;はさみ;Schere
+パソコン;パソコン;PC
+メール;メール;E-Mail
+年賀状;ねんがじょう;Neujahrskarte
+ホッチキス;ホッチキス;Hefter, Tacker
+セロテープ;セロテープ;Klebeband
+消しゴマ;けしゴマ;Radiergummi
+紙;かみ;Papier
+花;はな;Blume, Blüte
+シャツ;シャツ;Hemd
+プレゼント;プレゼント;Geschenk
+荷物;にもつ;Gepäck, Paket, Päckchen
+お金;おかね;Geld
+切符;きっぷ;(Fahr-)Karte, Ticket
+クリスマス;クリスマス;Weihnachten
+父;ちち;(mein) Vater
+母;はは;(meine) Mutter
+お父さん;おとうさん;(jemandes) Vater
+お母さん;おかあさん;(jemandes) Mutter
+もう;もう;schon, bereits
+まだ;まだ;noch, noch nicht
+これから;これから;jetzt, von jetzt an, gleich
+～すてきですね;～すてきですね;was für ein/-e schöne/-r/-s ~
+いらっしゃい;いらっしゃい;Schön, dass Sie gekommen sind!
+どうぞお上がりください;どうぞおあがりください;Kommen Sie doch herein!
+失礼します;しつれいします;Danke schön! Darf ich?
+～はいかがですか;～はいかがですか;Wie wäre es mit ~
+～はいかがですか;～はいかがですか;Danke schön! Ich empfange.
+スペイン;スパイン;Spanien
+
+Chapter;8
+ハンサム;ハンサム;gutaussehend
+きれい;きれい;hübsch, schön, sauber
+静か;しずか;still, ruhig
+にぎやか;にぎやか;belebt
+有名;ゆうめい;berühmt
+親切;しんせつ;freundlich, nett
+元気;げんき;munter, lebhaft, gesund
+暇;ひま;frei, Freizeit
+便利;べんり;praktisch
+すてき;すてき;wunderbar, toll, schön
+大きい;おおきい;groß
+小さい;ちいさい;klein
+新しい;あたらしい;neu, frisch
+古い;ふるい;alt
+いい;いい;gut
+悪い;わるい;schlecht
+厚い, 熱い;あつい;heiß
+寒い;さむい;kalt (Lufttemperatur)
+冷たい;つめたい;kalt (z.B. Getränk)
+難しい;むずかしい;schwierig
+易しい;やさしい;einfach
+高い;たかい;teuer, hoch
+安い;やすい;billig
+低い;ひくい;niedrig
+おもしろい;おもしろい;interessant, lustig
+おいしい;おいしい;lecker, köstlich
+忙しい;いそがしい;beschäftigt, viel zu tun haben
+楽しい;たのしい;unterhaltsam, amüsant, schön
+白い;しろい;weiß
+黒い;くろい;schwarz
+赤い;あかい;rot
+青い;あおい;blau
+桜;さくら;Kirschblüte, -baum
+山;やま;Berg
+町;まち;Stadt
+食べ物;たべもの;Lebensmittel (Essen)
+車;くるま;Auto, Fahrzeug
+所;ところ;Ort
+寮;りょう;Wohnheim
+勉強;べんきょう;study/
+生活;せいかつ;(tägliches) Leben, Alltag
+仕事[をします];しごと[をします];[Ihre] Arbeit, [seine Arbeit machen]
+どう;どう;wie
+どんな～;どんな～;was für ein/-e~
+とても;とても;sehr
+あまり;あまり;nicht so (bei Negation)
+そして;そして;Und (Satzverbindung)
+～が、～;～が、～;~, aber ~/
+お元気ですか;おげんきですか;Wie geht es Ihnen?
+そうですね;そうですね;Nun, also...
+～も一杯いかがですか;～もいっぱいいかがですか;Möchten Sie noch ein Glas/eine Tasse~?
+いいえ、けっこうです;いいえ、けっこうです;Nein, vielen Dank.
+もう～です[ね];もう～です[ね];Es ist schon ~[, nicht wahr]?
+そろそろ失礼します;そろそろしつれいします;Es ist langsam Zeit zu gehen.
+またいらっしゃってください;またいらっしゃってください;Kommen SIe doch bald einmal wieder vorbei!
+
+Chapter;9
+わかります;わかります;verstehen, begreifen
+あります;あります;haben, besitzen
+好き;すき;mögen
+嫌い;きらい;hassen, nicht mögen
+上手;じょうず;geschickt
+下手;へた;ungeschickt
+料理;りょうり;Essen, Gericht, Kochen
+飲み物;のみもの;Getränke
+スポーツ;スポーツ;Sport
+スポーツをします;スポーツをします;Sport treiben
+野球;やきゅう;Baseball
+野球をします;やきゅうをします;Baseball spielen
+ダンス;ダンス;Tanz
+ダンスをします;ダンスをします;tanzen
+音楽;おんがく;Musik
+歌;うた;Lied
+クラシック;クラシック;klassische Musik
+ジャズ;ジャズ;Jazz
+コンサート;コンサート;Konzert
+カラオケ;カラオケ;Karaoke
+歌舞伎;かぶき;Kabuki
+絵;え;Gemälde, Bild
+字;じ;Zeichen
+漢字;かんじ;Kanji
+ひらがな;ひらがな;Hiragana
+かたかな;かたかな;Katakana
+ローマ字;ローマじ;lateinische Schrift
+細かいお金;こまかいおかね;Kleingeld
+チケット;チケット;Eintrittskarte
+時間;じかん;(Uhr-)Zeit
+用事;ようじ;etw., das man zu erledigen hat
+約束;やくそく;Versprechen, Verabredung
+ご主人;ごしゅじん;(jemandes) Ehemann
+夫, 主人;おっと, しゅじん;(mein) Ehemann
+奥さん;おくさん;(jemandes) Frau
+妻, 家内;つま,かない;meine Frau
+子ども;こども;Kind
+よく;よく;gut(Adverb)
+だいたい;だいたい;größtenteils, ungefähr
+たくさん;たくさん;viel/-e
+少し;すこし;ein bisschen, wenig
+全然;ぜんぜん;überhaupt nicht (mit Negation)
+早く, 速く;はやく;früh, schnell
+～から;～から;weil ~
+どうして;どうして;warum
+残念です;ざんねんです;Es ist schade, aber
+もしもし;もしもし;Hallo (am Telefon)
+いっしょうにいかがですか;いっしょうにいかがですか;Wollen Sie nicht mit mir kommen?
+だめですか;だめですか;Es geht also nicht?
+また今度お願いします;またこんどおねがいします;Fragen Sie mich bitte ein anderes Mal.
+
+Chapter;10
+います;います;(da) sein, existieren, es gibt~ (Gegenstände)
+ありま;ありま;(da) sein, existieren, es gibt~ (Lebewesen)
+いろいろ;いろいろ;verschiedene
+男の人;おとこのひと;Mann
+女の人;おんなのひと;Frau
+男の子;おとこのこ;Junge
+女の子;おんなのこ;Mädchen
+犬;いぬ;Hund
+猫;ねこ;Katze
+パンダ;パンダ;Panda
+象;ぞう;Elefant
+木;き;Baum
+物;もの;Ding, Gegenstand
+電池;でんち;Batterie
+箱;はこ;Schachtel, Kasten, Kiste
+スイッチ;スイッチ;Schalter
+冷蔵庫;れいぞうこ;Kühlschrank
+テーブル;テーブル;(Ess-)Tisch
+ベッド;ベッド;Bett
+棚;たな;Regal
+ドア;ドア;Tür
+窓;まど;Fenster
+ポスト;ポスト;Briefkasten
+ビル;ビル;Gebäude
+コンビニ;コンビニ;Convenience Store
+公園;こうえん;Park
+喫茶店;きっさてん;Café
+～屋;～や;~ geschäft, ~ laden
+乗り場;のりば;Halteplatz (Taxi, Zug, ..)
+県;けん;Präfektur
+上;うえ;oben, über, auf
+下;した;unter, unten
+前;まえ;vor, vorne
+うしろ;うしろ;hinter, hinten
+右;みぎ;rechts
+左;ひだり;links
+中;なか;innen
+外;そと;außen
+隣;となり;neben
+近く;ちかく;in der Nähe, nahe bei
+間;あいだ;zwischen
+～や～ など;～や～ など; ~, ~, usw.
+どうもすみません;どうもすみません;Vielen Dank!
+
+Chapter;11
+子供がいます;こどもがいます;ein Kind haben
+日本にいます;にほんにいます;in Japan sein, bleiben
+かかります;かかります;kosten, dauern (Zeit, Geld)
+会社を休みます;かいしゃをやすみます;sich freinehmen, fehlen
+一つ;ひとつ;ein/-e (zählen)
+二つ;ふたつ;zwei (zählen)
+三つ;みっつ;drei (zählen)
+四つ;よっつ;vier (zählen)
+五つ;いつつ;fünf (zählen)
+六つ;むっつ;sechs (zählen)
+七つ;ななつ;sieben (zählen)
+八つ;やっつ;acht (zählen)
+九つ;ここのつ;neuen (zählen)
+十;とお;zehn (zählen)
+いくつ;いくつ;wie viel/-e
+一人;ひとり;eine Person
+二人;ふたり;zwei Personen
+～人;～にん;~ Personen
+～回;～かい;~ Mal
+りんご;りんご;Apfek
+みかん;みかん;Mandarine
+サンドイッチ;サンドイッチ;Sandwich
+カレー[ライス];カレー[ライス];Curry[reis]
+アイスクリーム;アイスクリーム;Eiscreme
+切手;きって;Briefmarke
+はがき;はがき;Postkarte
+封筒;ふうとう;Briefumschlag
+両親;りょうしん;Eltern
+兄弟;きょうだい;Geschwister
+兄;あに;(mein) älterer Bruder
+お兄さん;おにいさん;(jemandes) älterer Bruder
+姉;あね;(meine) ältere Schwester
+お姉さん;おねえさん;(jemadnes) ältere Schwester
+弟;おとうと;(mein) jüngerer Bruder
+弟さん;おとうとさん;(jemandes) jüngerer Bruder
+妹;いもうと;(meine) jüngere Schwester
+妹さん;いもうとさん;(jemandes) jüngere Schwester
+外国;がいこく;Ausland
+～時間;～じかん;~ Stunden
+～週間;～しゅうかん;~ Wochen
+～か月;～かげつ;~ Monate
+～年;～ねん;~ Jahre
+～ぐらい;～ぐらい;ungefähr ~
+どのくらい;どのくらい;wie lange
+全部で;ぜんぶで;insgesamt
+みんな;みんな;alle/-s
+～だけ;～だけ;nur ~
+いい天気ですね;いいてんきですね;Schönes Wetter, nicht wahr?
+お出かけですか;おでかけですか;Gehen Sie aus?
+ちょっと～まで;ちょっと～まで;Ich gehe nur mal eben zu ~, kurz zu ~.
+行っていらっしゃい;いっていらっしゃい;Tschüss! Bis später! Bis dann! (gehen Sie)
+行ってまいります;いってまいります;Tschüss! Bis später! Bis dann! (ich gehe)
+オーストラリア;オーストラリア;Australien
+
+Chapter;12
+簡単;かんたん;einfach, leicht
+近い;ちかい;nah
+遠い;とおい;fern, weit
+速い, 早い;はやい;schnell, früh
+遅い;おそい;spät, langsam
+[人が]多い;[ひとが]おおい;viel, viele [Menschen]
+[人が]少ない;[ひとが]すくない;wenig, wenige [Menschen]
+暖かい, 温かい;あたたかい;warm
+涼しい;すずしい;kalt
+甘い;あまい;sü?
+辛い;からい;scharf
+重い;おもい;schwer
+軽い;かるい;leicht
+[コーヒーが]いい ;[コーヒーが]いい;[Kaffee] bevorzugen
+季節;きせつ;Jahreszeit
+春;はる;Frühling
+夏;なつ;Sommer
+秋;あき;Herbst
+冬;ふゆ;Winter
+天気;てんき;Wetter
+雨;あめ;Regen
+雪;ゆき;Schnee
+曇り;くもり;bewölktes Wetter
+ホテル;ホテル;Hotel
+空港;くうこう;Flughafen
+海;うみ;Meer
+世界;せかい;Welt
+パーティー;パーティー;Party
+祭り;まつり;Fest, Festival
+すき焼き;すきやき;Sukiyaki (Rindfleisch, Gemüse im Topf)
+刺身;さしみ;Sashimi (Scheibenfisch)
+すし;すし;Sushi
+てんぷら;てんぷら;Tempura (frittiertes Gemüse)
+生け花[をします];いけばな[をします];Ikebana [machen]
+紅葉;もみじ;rote Ahornblätter
+どちら;どちら;welche/-r/-s (von zwei)
+どちらも;どちらも;beide/-s
+ずっと;ずっと;am weitem
+初めて;はじめて;zum ersten Mal
+ただいま;ただいま;Bin wieder da!
+おかえりなさい;おかえりなさい;Schön, dass Sie wieder da sind!
+疲れました;つかれました;ich bin müde.
+
+Chapter;13
+遊びます;あそびます;spielen, sich amüsieren, sich vergnügen
+泳ぎます;およぎます;schwimmen
+迎えます;むかえます;abholen, begrüßen
+疲れます;つかれます;sich erschöpfen
+結婚します;けっこんします;heiraten
+買い物します;かいものします;einkaufen
+食事します;しょくじします;essen, Mahlzeit halten
+[公園を]散歩します;[こうえんを]さんぽします;[im Park] spazieren (gehen)
+大変;たいへん;hart, anstrengend, schrecklich
+欲しい;ほしい;(etw.) haben wollen
+広い;ひろい;weit, groß, breit, geräumig
+狭い;せまい;eng, klein, schmal
+プール;プール;Schwimmbad
+川;かわ;Fluss
+美術;びじゅつ;(schöne) Kunst
+釣り;つり;Angeln
+釣りをします;つりをします;angeln
+スキー[をします];スキー[をします];Ski [laufen]
+週末;しゅうまつ;Wochenende
+何か;なにか;etwas
+どこか;どこか;irgendwo
+のどがかわきました;のどがかわきました;Durst bekommen
+おなかがすきました;おなかがすきました;Hunger bekommen
+そうしましょう;そうしましょう;Machen wir das so!
+ご注文は;ごちゅうもんは;Was möchten Sie bestellen?
+定食;ていしょく;Menü
+牛どん;ぎゅうどん;Schüssel Reis mit Rindfleisch
+[少々]お待ちください;[しょうしょう]おまちください;Bitte waren Sie [einen Augenblick]!
+別々に;べつべつに;getrennt
+ロシア;ロシア;Russland
+
+Chapter;14
+つけます;つけます;einschalten
+消します;けします;ausschalten
+開けます;あけます;öffnen
+閉めます;しめます;schließen
+急ぎます;いそぎます;sich beeilen
+待ちます;まちます;warten
+持ちます;もちます;(fest-)halten, tragen, haben
+取ります;とります;nehmen, (jmd. etw.) reichen
+手伝います;てつだいます;helfen (bei Aufgabe)
+呼びます;よびます;rufen
+話します;はなします;sprechen, reden, erzählen
+使います;つかいます;benutzen
+止めます;とめます;anhalten, parken, stoppen
+見せます;みせます;zeigen
+[住所を]教えます;[じゅうしょを]おしえます;erklären, [die Adresse] mitteilen
+座ります;すわります;sich setzen
+立ちます;たちます;sich hinstellen, aufstehen
+[喫茶店に]入ります;[きっさてんに]はいります;hineingehen, [ein Café] betreten
+[喫茶店を]出ます;[きっさてんを]でます;herausgehen, [ein Café] verlassen
+[雨が]降ります;[あめが]ふります;fallen (Regen, Schnee), [es regnet]
+コピーします;コピーします;kopieren
+電気;でんき;Elektrizität, Strom
+エアコン;エアコン;Klimaanlage
+パスポート;パスポート;Reisepass
+名前;なまえ;Name
+住所;じゅうしょ;Adresse
+地図;ちず;Landkarte, Stadtplan
+塩;しお;Salz
+砂糖;さとう;Zucker
+問題;もんだい;Aufgabe, Frage, Problem
+答え;こたえ;Antwort
+読み方;よみかた;Lesung, wie man etw. liest
+～方;～かた;Art und Weise ~zu tun
+まっすぐ;まっすぐ;geradeaus
+ゆっくり;ゆっくり;langsam, gemütlich
+すぐ;すぐ;sofort
+また;また;noch einmal, wieder
+あとで;あとで;später
+もう少し;もうすこし;ein bisschen mehr
+もう～;もう～;noch ein/-e weitere/-r/-s ~
+さあ;さあ;nun(zu Handlung anregen)
+あれ;あれ;Nanu!
+信号を右へ曲がってください;しんごうをみぎへまがってください;Biegen Sie bitte an der Ampel nach rechts ab.
+これでお願いします;これでおねがいします;Ich würde gerne damit bezahlen.
+お釣り;おつり;Wechselgeld
+
+Chapter;15
+置きます;おきます;stellen, legen
+作ります, 造ります;つくります;produzieren, herstellen, machen, bauen
+売ります;うります;verkaufen
+知ります;しります;kennen lernen, erfahren
+住ます;すみます;wohnen
+研究します;けんきゅうします;forschen
+資料;しりょう;Material, Daten
+カタログ;カタログ;Katalog
+時刻表;じこくひょう;Fahrplan
+服;ふく;Kleidung
+製品;せいひん;Produkt
+ソフト;ソフト;Software
+歯医者;はいしゃ;Zahnarzt/-ärztin
+独身;どくしん;ledig
+すみません;すみません;Es tut mir Leid.
+思い出します;おもいだします;sich erinnern
+いらっしゃいます;いらっしゃいます;sein(ehrerbietige Form)
+
+Chapter;16
+[電車に]乗ります;[でんしゃに]のります;fahren, [den Zug] nehmen
+[電車を]降ります;[でんしゃを]おります;herabsteigen, [aus dem Zug] aussteigen
+乗り換えます;のりかえます;umsteigen
+[シャワーを]浴びます;[シャワーを]あびます;[eine Dusche] nehmen, sich duschen
+入れます;いれます;hineintun
+出します;だします;herausnehmen, abheben, abschicken
+[大学に]入ります;[だいがくに]はいります;eintreten, sich [an der Uni] einschreiben
+[大学を]出ます;[だいがくを]でます;absolvieren, [die Uni] abschließen
+押します;おします;schieben, drücken
+若い;わかい;jung
+長い;ながい;lang
+短い;みじかい;kurz
+明るい;あかるい;hell
+暗い;くらい;dunkel
+体;からだ;Körper, Gesundheit
+頭;あたま;Kopf, Verstand
+髪;かみ;Haare
+顔;かお;Gesicht
+目;め;Auge
+耳;みみ;Ohr
+鼻;はな;Nase
+口;くち;Mund
+歯;は;Zahn
+ おなか;おなか;Bauch
+足;あし;Bein, Fuß
+背;せ;Körpergröße
+サービス;サービス;Service
+[ジョギングを]します;[ジョギング]をします;Jogging [joggen]
+シャワー;シャワー;Dusche
+緑;みどり;grün, das Grün (Natur)
+寺 ;てら;buddh. Tempel
+神社;じんじゃ;Shinto-Shrine/
+～番;～ばん;Nummer~
+どうやって;どうやって;wie, auf welche Art und Weise
+どの～, どれ;どの～, どれ;welche/-r/-s (von dreien oder mehr)
+すごいですね;すごいですね;Das ist ja großartig!
+いいえまだまだです;いいえまだまだです;[Nein,] noch lange nicht.
+お引き出しですか;おひきだしですか;Möchten Sie Geld abheben?
+まず;まず;zuerst
+キャッシュカード;キャッシュカード;Karte für den Geldautomaten
+暗証番号;あんしょうばんごう;Geheimnummer
+金額;きんがく;Geldbetrag
+確認[します];かくにん[します];Bestätigung, [bestätigen]
+ボタン;ボタン;Taste, Knopf
+
+Chapter;17
+覚えます;おぼえます;sich merken, (auswendig) lernen
+忘れます;わすれます;vergessen, liegen lassen
+なくします;なくします;verlieren
+払います;はらいます;bezahlen
+返します;かえします;zurückgeben
+出かけます;でかけます;weggehen, das Haus verlassen
+脱ぎます;ぬぎます;ausziehen (Kleidung, Schuhe)
+持って行ます;もっていきます;(etw.) mitnehmen
+持って来ます;もってきます;(etw.) mitbringen
+心配します;しんぱいします;sich sorgen
+残業します;ざんぎょうします;Überstunden machen
+出張します;しゅっちょうします;eine Dienstreise machen
+[薬を]飲みます;[くすりを]のみます;[Medizin] einnehmen
+[おふろに]入ります;[おふろに]はいります;[ein Bad] nehmen, baden
+大切;たいせつ;wichtig, wertvoll
+大丈夫;だいじょうぶ;in Ordnung, kein Problem
+危ない;あぶない;gefährlich
+禁煙;きんえん;Rauchverbot
+健康保険証;けんこうほけんしょう;[Krankenversicherungs-]Karte
+かぜ;かぜ;Erkältung
+熱;ねつ;Fieber
+病気;びょうき;Krankheit
+薬;くすり;Medikament
+おふろ;おふろ;Bad
+上着;うわぎ;Jacke
+下着;したぎ;Unterwäsche
+～までに;～までに;bis~, innerhalb (der Zeit)
+ですから;ですから;deshalb
+ どうしましたか;どうしましたか;Was fehlt Ihnen? (Arzt)
+～が痛いです;～がいたいです;~ tut (mir) weh.
+のど;のど;Hals
+お大事に;おだいじに;Gute Besserung!
+
+Chapter;18
+できます;できます;(etw.) können, fähig sein, möglich sein
+洗います;あらいます;waschen, spülen
+弾きます;ひきます;(Saiteninstrument) spielen
+歌います;うたいます;singen
+集めます;あつめます;sammeln
+捨てます;すてます;wegwerfen
+換えます;かえます;(aus-)tauschen, wechseln
+運転します;うんてんします;fahren, am Steuer sitzen
+予約します;よやくします;reservieren, buchen
+ピアノ;ピアノ;Klavier
+～メートル;～メートル;~ Meter
+現金;げんきん;Bargeld
+趣味;しゅみ;Hobby
+日記;にっき;Tagebuch
+お祈り[をします];おいのり[をします];Gebet, [beten]
+課長;かちょう;Sektionsleiter
+部長;ぶちょう;Abteilungsleiter
+社長;しゃちょう;Firmenchef
+動物;どうぶつ;Tier
+馬;うま;Pferd
+特に;とくに;besonders, vor allem
+へえ;へえ;Ach, ja? (erstaunt)
+それはおもしろいですね;それはおもしろいですね;Das ist ja interessant.
+なかなか;なかなか;nicht einfach, kaum, selten (Negation)
+ほんとうですか;ほんとうですか;Wirklich?
+ぜひ;ぜひ;unbedingt
+
+Chapter;19
+登ります;のぼります;klettern, steigen, (hin-)aufsteigen
+山に登ります;やまにのぼります;einen Berg hinaufsteigen
+[ホテルに]泊まります;[ホテルに]とまります;[in einem Hotel] übernachten
+掃除します;そうじします;sauber machen, putzen
+洗濯します;せんたくします;Wäsche waschen
+なります;なります;werden
+眠い;ねむい;müde
+強い;つよい;stark
+弱い;よわい;schwach
+練習[をします];れんしゅう[をします];Übung, [üben]
+調子;ちょうし;körperliche Verfassung
+ゴルフ[をします];ゴルフ[をします];Golf spielen
+相撲[をします];すもう[をします];Sumo[-Kampf führen]
+お茶;おちゃ;Teezeremonie
+日;ひ;Tag, Datum
+一度;いちど;einmal
+一度も;いちども;kein einziges Mal (Negation)
+だんだん;だんだん;allmählig, langsam
+もうすぐ;もうすぐ;bald
+おかげさまで;おかげさまで;Danke!(für Hilfe)
+でも;でも;aber
+乾杯;かんぱい;Zum Wohl! Prost!
+ダイエット[をします];ダイエット[をします];Diät [machen]
+体にいい;からだにいい;gut für die Gesundheit
+
+Chapter;20
+[ビザが]要ります;[ビザが]いります;[ein Visum] benötigen
+調べます;しらべます;untersuchen, überprüfen
+修理します;しゅうりします;reparieren
+僕;ぼく;Ich (inform., männl.)
+君;きみ;Du (inform., männl.)
+～君;～くん;Herr (inform., männl.)
+うん;うん;Ja (inform.)
+ううん;ううん;Nein (inform.)
+ことば;ことば;Wort, Sprache
+着物;きもの;Kimono
+ビサ;ビザ;Visum
+初め;はじめ;Anfang
+終わり;おわり;Ende
+こっち;こっち;hierhin, hier (inform.)
+そっち;そっち;dahin, da (inform.)
+あっち;あっち;dorthin, dort drüben (inform.)
+どっち;どっち;welche/-r/-s (von zwei), in welcher Richtung (inform.)
+みんなで;みんなで;alle zusammen
+～けど;～けど ~;~, aber (inform.)
+よかったら;よかったら;wenn du willst
+いろいろ;いろいろ;allerlei
+
+Chapter;21
+思う;おもいます;denken, glauben, der Meinung sein
+言う;いいます;sagen
+勝つ;かちます;gewinnen, siegen
+負ける;まけます;verlieren(Spiel, Wettkampf)
+[お祭が]あります;[おまつりが]あります;stattfinden, [ein Fest] findet statt
+役に立ちます;やくにたちます;nützlich sein
+動きます;うごきます;sich bewegen, funktionieren
+[会社を]やめます;[かいしゃを]やめます;aufhören, [in der Firma] kündigen
+気をつけます;きをつけます;auf etw. achten, aufpassen
+留学します;りゅうがくします;ins Ausland gehen, um zu studieren
+むだ;むだ;unnütz, sinnlos, verschwenderisch
+不便;ふべん;unpraktisch
+すごい;すごい;toll, großartig, schrecklich, furchtbar
+ほんとう;ほんとう;Wahrheit
+うそ;うそ;Lüge
+自動車;じどうしゃ;Auto
+交通;こうつう;Verkehr
+物価;ぶっか;Preise
+放送;ほうそう;Rundfunk, Ausstrahlung, Ansage
+ニュース;ニュース;Nachrichten
+デザイン;デザイン;Design
+夢;ゆめ;Traum
+天才;てんさい;Genie
+試合[をします];しあい[をします];Spiel, Wettkampf [bestreiten]
+意見;いけん;Meinung
+話[をします];はなし[をします];Rede, Geschichte erzählen
+地球;ちきゅう;Erde
+月;つき;Mond
+最近;さいきん;in letzter Zeit
+たぶん;たぶん;wahrscheinlich
+きっと;きっと;sicherlich
+ほんとうに;ほんとうに;wirklich
+そんなに;そんなに;nicht so (viel) (Verneinung)
+～について;～について;über~, bezüglich~
+～でも飲みませんか;～でものみませんか;Trinken wir ein/-e/-n ~ oder so?
+もちろん;もちろん;natürlich
+カンガルー;カンガルー;Känguru
+
+Chapter;22
+[シャツを]着ます;[シャツを]きます;[ein Hemd] tragen
+[靴を]はきます;[くつを]はきます;[Schuhe] tragen
+[帽子を]かぶります;[ぼうしを]かぶります;[einen Hut] aufsetzen
+[眼鏡を]かけます;[めがねを]かけます;[eine Brille] tragen
+[ネクタイを]します;[ネクタイを]します;[eine Krawatte] tragen
+生まれます;うまれます;geboren werden
+わたしたち;わたしたち;wir
+コート;コート;Mantel
+スーツ;スーツ;Anzug
+セーター;セーター;Pullover
+帽子;ぼうし;Hut, Mütze
+眼鏡;めがね;Brille
+ケーキ;ケーキ;Kuchen
+[を]弁当;[を]ベんとう;[O]bento, Lunchpaket
+ロボット;ロボット;Roboter
+ユーモア;ユーモア;Humor
+都合;つごう;Umstände
+よく;よく;oft
+おめでとうございます;おめでとうございます;Herzlichen Glückwunsch!
+家賃;やちん;Miete
+こちら;こちら;diese/-r/-s (höfl.)
+
+Chapter;23
+先生に聞きます;せんせいにききます;[den Lehrer] fragen
+回します;まわします];drehen
+引きます;ひきます;ziehen
+変えます;かえます;ändern
+アに触ります;ドアにさわります;[die Tür] berühren
+お釣りが出ます;おつりがでます;[Wechselgeld] kommt heraus
+歩きます;あるきます;zu Fuß gehen
+橋を渡ります;はしをわたります;[die Brücke] überqueren
+[右へ]曲がります み;[ぎへ]まがります;[nach rechts] abbiegen
+寂しい;さびしい;einsam
+[お]湯;[お]ゆ;heißes Wasser
+音;おと;Ton, Laut
+サイズ;サイズ;Größe
+故障します;こしょうします;Defekt, Panne, [versagen, stehen bleiben]
+道;みち;Weg
+交差点;こうさてん;Kreuzung
+信号;しんごう;Ampel
+角;かど;Ecke
+橋;はし;Brücke
+駐車場;ちゅうしゃじょう;Parkplatz
+建物;たてもの;Gebäude
+ー目;ーめ;der/die/das -te (Reihenfolge)
+
+Chapter;24
+くれます;くれます;(mir) geben
+直します;なおします;reparieren, korrigieren
+連れて行きます;つれていきます;(jmd.) mitnehmen
+連れて来ます;つれてきます;(jmd.) mitbringen
+人を送ります;ひとをおくります;[die Person] bringen
+紹介します;しょうかいします;(jmd.) vorstellen, bekannt machen
+案内します;あんないします;führen, den Weg zeigen
+説明します;せつめいします;erklären
+おじいさん, おじいちゃん;おじいさん, おじいちゃん;Großvater, alter Mann
+おばあさん, おばあちゃん;おばあさん, おばあちゃん;Großmutter, alte Frau
+準備します;じゅんびします;Vorbereitung [treffen]
+引っ越し[をします];ひっこし[をします];Umzug, [umziehen]
+お菓子;おかし;Süßigkeiten, Snacks
+全部;ぜんぶ;alle/-s (Dinge)
+自分で;じぶんで;selbst(ständig), selber
+ほかに;ほかに;besides/
+ワゴン車;ワゴンしゃ;station wagon/
+弁当;べんとう;box lunch/
+
+Chapter;25
+考えます;かんがえます;(nach)denken, überlegen
+着きます;つきます;ankommen
+[年を]取ります;[としを]とります;[alt] werden
+田舎;いなか;Land(!= Stadt) Herkunftsort
+チャンス;チャンス;Chance, Gelegenheit
+億;おく;100 Millionen
+もし[～たら];もし[～たら];wenn [~], falls [~]
+意味;いみ;Bedeutung
